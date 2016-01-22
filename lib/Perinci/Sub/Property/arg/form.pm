@@ -16,7 +16,7 @@ declare_property(
 );
 
 1;
-#ABSTRACT: Specify object data in result
+#ABSTRACT: Specify form-related information in argument specification
 
 =head1 SYNOPSIS
 
@@ -33,4 +33,3 @@ In function L<Rinci> metadata:
 =head1 DESCRIPTION
 
 This property is to allow form-related attributes in argument specification.
-
